@@ -1,0 +1,6 @@
+1.  Smoothing umumnya digunakan untuk menyamarkan noise pada citra dengan cara memberikan blur pada citra.
+2.  edge detection adalah sebuah metode pendeteksian citra digital untuk mengetahui bagian mana yang termasuk objek 
+    serta bagian mana yang termasuk background sehingga dapat meminimalisasi data diproses yang dianggap tidak berka
+3.  
+4.  segmentasi gambar dengan melakukan scanning pixel satu per satu untuk mendefinisikan apakah pixel tersebut termasuk object atau background
+    segmentasi tersebut berdasarkan seberapa besar gray level dari suatu pixel apakah lebih besar atau lebih keci dari value keseluruhan
